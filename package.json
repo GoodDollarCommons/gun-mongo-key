@@ -1,6 +1,6 @@
 {
   "name": "@gooddollarcommons/gun-mongo-key",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A Mongo key:value adapter for Gunjs",
   "main": "index.js",
   "repository": {
