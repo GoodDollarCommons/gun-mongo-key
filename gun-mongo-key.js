@@ -1,4 +1,4 @@
-const {KeyValAdapter, Mixins} = require('gun-flint');
+const {KeyValAdapter, Mixins} = require('@gooddollarcommons/gun-flint');
 const Mongojs = require('mongojs');
 
 function getCollection(keyField) {
